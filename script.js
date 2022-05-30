@@ -41,7 +41,7 @@ document.getElementById("result").innerHTML="Now we can LIVE!"
 }
 
 
-else {document.getElementById("result").innerHTML="Nigga, WE BALLIN!"}
+else {document.getElementById("result").innerHTML="We ballin BABY!"}
 
 
 }
