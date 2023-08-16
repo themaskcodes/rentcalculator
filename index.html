@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 
+import { Storage } from "@aws-amplify/storage"
 
+await Storage.put("test.txt", "Hello");
 
 
 <head>
